@@ -72,7 +72,7 @@ Chạy:
 * Dừng mọi tiến trình Airflow cũ.
 * Khởi tạo Airflow DB nếu chưa có.
 * Start Airflow Webserver + Scheduler.
-* Mở trình duyệt Airflow UI.
+* Mở trình duyệt Airflow UI. (**user: admin, pass: admin**)
 * Trigger DAG `update_all` để chạy toàn bộ pipeline ETL.
 
 ### 3️⃣ Chạy GUI Streamlit

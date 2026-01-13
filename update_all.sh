@@ -33,6 +33,7 @@ sleep 5
 
 # Open GUI
 xdg-open http://localhost:8080
+sleep 3
 airflow dags trigger update_all
 
 deactivate

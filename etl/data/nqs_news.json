@@ -1,5 +1,140 @@
 [
   {
+    "title": "Tỷ giá, lãi suất chịu sức ép ra sao khi mục tiêu tăng trưởng GDP lên 10%?",
+    "title_latin": "ty gia, lai suat chiu suc ep ra sao khi muc tieu tang truong gdp len 10%?",
+    "href": "https://nguoiquansat.vn/ty-gia-lai-suat-chiu-suc-ep-ra-sao-khi-muc-tieu-tang-truong-gdp-len-10-266299.html",
+    "href_hash": "742b5e66a90cb9cdedfadbd8abc73cae",
+    "publish_date": "2026/01/13 08:31:00",
+    "publish_ts": 1768267860,
+    "category": "vi-mo"
+  },
+  {
+    "title": "Thủ tướng chỉ ra tài nguyên 'mỏ vàng' 80 tỷ USD của Việt Nam trong kỷ nguyên số",
+    "title_latin": "thu tuong chi ra tai nguyen 'mo vang' 80 ty usd cua viet nam trong ky nguyen so",
+    "href": "https://nguoiquansat.vn/thu-tuong-chi-ra-tai-nguyen-mo-vang-80-ty-usd-cua-viet-nam-trong-ky-nguyen-so-266298.html",
+    "href_hash": "05901c7a5618e74a0db230e1262433a6",
+    "publish_date": "2026/01/13 08:21:00",
+    "publish_ts": 1768267260,
+    "category": "vi-mo"
+  },
+  {
+    "title": "Gần 1 triệu tỷ đồng vốn đầu tư công sẽ 'bơm' vào nền kinh tế 2026, ACBS Research điểm tên 5 cổ phiếu hưởng lợi",
+    "title_latin": "gan 1 trieu ty ong von au tu cong se 'bom' vao nen kinh te 2026, acbs research iem ten 5 co phieu huong loi",
+    "href": "https://nguoiquansat.vn/gan-1-trieu-ty-dong-von-dau-tu-cong-se-bom-vao-nen-kinh-te-2026-acbs-research-diem-ten-5-co-phieu-huong-loi-266287.html",
+    "href_hash": "aa8d0243c77797ab5d10166b5d06dd3f",
+    "publish_date": "2026/01/13 08:00:00",
+    "publish_ts": 1768266000,
+    "category": "chung-khoan"
+  },
+  {
+    "title": "Từ giờ, 6 trường hợp đăng ký biến động đất đai buộc phải cấp sổ đỏ",
+    "title_latin": "tu gio, 6 truong hop ang ky bien ong at ai buoc phai cap so o",
+    "href": "https://nguoiquansat.vn/tu-gio-6-truong-hop-dang-ky-bien-dong-dat-dai-buoc-phai-cap-so-do-266277.html",
+    "href_hash": "a0e696748e8a35c474c2569ef6efbaef",
+    "publish_date": "2026/01/13 08:00:00",
+    "publish_ts": 1768266000,
+    "category": "bat-dong-san"
+  },
+  {
+    "title": "Sóng thoái vốn Nhà nước: Đọc vị 'vòng đời' để xác định điểm vào - ra",
+    "title_latin": "song thoai von nha nuoc: oc vi 'vong oi' e xac inh iem vao - ra",
+    "href": "https://nguoiquansat.vn/song-thoai-von-nha-nuoc-doc-vi-vong-doi-de-xac-dinh-diem-vao-ra-266257.html",
+    "href_hash": "e326b52764bd69b8e51f5fd31f3e087e",
+    "publish_date": "2026/01/13 07:00:00",
+    "publish_ts": 1768262400,
+    "category": "chung-khoan"
+  },
+  {
+    "title": "Dự kiến từ cuối tháng sau, 5 đoạn cao tốc Bắc - Nam phía Đông sẽ bắt đầu triển khai thu phí",
+    "title_latin": "du kien tu cuoi thang sau, 5 oan cao toc bac - nam phia ong se bat au trien khai thu phi",
+    "href": "https://nguoiquansat.vn/du-kien-tu-cuoi-thang-sau-5-doan-cao-toc-bac-nam-phia-dong-se-bat-dau-trien-khai-thu-phi-266276.html",
+    "href_hash": "0e6a7aeec6da69dfb74ee23245ee5eaa",
+    "publish_date": "2026/01/13 07:00:00",
+    "publish_ts": 1768262400,
+    "category": "bat-dong-san"
+  },
+  {
+    "title": "Phú Thọ mời đầu tư 3 dự án giao thông, tổng vốn hơn 20.000 tỷ",
+    "title_latin": "phu tho moi au tu 3 du an giao thong, tong von hon 20.000 ty",
+    "href": "https://nguoiquansat.vn/phu-tho-moi-dau-tu-3-du-an-giao-thong-tong-von-hon-20-000-ty-266292.html",
+    "href_hash": "8348c332766eb23ffbc0b07d4d5aac55",
+    "publish_date": "2026/01/13 06:51:00",
+    "publish_ts": 1768261860,
+    "category": "bat-dong-san"
+  },
+  {
+    "title": "Dự án tại Huế dang dở do 1 hộ dân nằm 'án ngữ'",
+    "title_latin": "du an tai hue dang do do 1 ho dan nam 'an ngu'",
+    "href": "https://nguoiquansat.vn/du-an-tai-hue-dang-do-do-1-ho-dan-nam-an-ngu-266291.html",
+    "href_hash": "1d416272fe411039da92394059986e6c",
+    "publish_date": "2026/01/13 06:49:00",
+    "publish_ts": 1768261740,
+    "category": "bat-dong-san"
+  },
+  {
+    "title": "Thị trường bất động sản 2026: Không còn phân khúc 'vua'",
+    "title_latin": "thi truong bat ong san 2026: khong con phan khuc 'vua'",
+    "href": "https://nguoiquansat.vn/thi-truong-bat-dong-san-2026-khong-con-phan-khuc-vua-266290.html",
+    "href_hash": "e356d88b97dcdd83ecb68b6cb14b776a",
+    "publish_date": "2026/01/13 06:47:00",
+    "publish_ts": 1768261620,
+    "category": "bat-dong-san"
+  },
+  {
+    "title": "Một phút nắm trọn thị trường trước giờ giao dịch phiên 13/1: Chủ tịch Fed bị điều tra hình sự, NHNN không siết cho vay bất động sản năm 2026",
+    "title_latin": "mot phut nam tron thi truong truoc gio giao dich phien 13/1: chu tich fed bi ieu tra hinh su, nhnn khong siet cho vay bat ong san nam 2026",
+    "href": "https://nguoiquansat.vn/mot-phut-nam-tron-thi-truong-truoc-gio-giao-dich-phien-13-1-chu-tich-fed-bi-dieu-tra-hinh-su-nhnn-khong-siet-cho-vay-bat-dong-san-nam-2026-266286.html",
+    "href_hash": "4f047b7a148fc78626f0bb2914ec629f",
+    "publish_date": "2026/01/13 06:00:00",
+    "publish_ts": 1768258800,
+    "category": "chung-khoan"
+  },
+  {
+    "title": "Từ 2026, những trường hợp cho thuê nhà chính thức 'thoát thuế'",
+    "title_latin": "tu 2026, nhung truong hop cho thue nha chinh thuc 'thoat thue'",
+    "href": "https://nguoiquansat.vn/tu-2026-nhung-truong-hop-cho-thue-nha-chinh-thuc-thoat-thue-266275.html",
+    "href_hash": "d5830ce271179881e32322bc0bde4a40",
+    "publish_date": "2026/01/13 06:00:00",
+    "publish_ts": 1768258800,
+    "category": "bat-dong-san"
+  },
+  {
+    "title": "Tòa tháp chọc trời đứng TOP 3 TP. HCM: Bến đỗ của 10.000 chuyên gia, sứ mệnh là ngọn 'ngọn hải đăng' của kinh tế đô thị",
+    "title_latin": "toa thap choc troi ung top 3 tp. hcm: ben o cua 10.000 chuyen gia, su menh la ngon 'ngon hai ang' cua kinh te o thi",
+    "href": "https://nguoiquansat.vn/toa-thap-choc-troi-dung-top-3-tp-hcm-ben-do-cua-10-000-chuyen-gia-su-menh-la-ngon-ngon-hai-dang-cua-kinh-te-do-thi-266273.html",
+    "href_hash": "7b6cf3d143619f9b262589b9db0bbcef",
+    "publish_date": "2026/01/13 04:09:00",
+    "publish_ts": 1768252140,
+    "category": "bat-dong-san"
+  },
+  {
+    "title": "Đảo duy nhất của Việt Nam từng có 5 ngọn núi lửa và ‘Đà Lạt thứ 2’ của Tây Nguyên liên kết phát triển du lịch sinh thái rừng - biển đảo",
+    "title_latin": "ao duy nhat cua viet nam tung co 5 ngon nui lua va a lat thu 2 cua tay nguyen lien ket phat trien du lich sinh thai rung - bien ao",
+    "href": "https://nguoiquansat.vn/dao-duy-nhat-cua-viet-nam-tung-co-5-ngon-nui-lua-va-da-lat-thu-2-cua-tay-nguyen-lien-ket-phat-trien-du-lich-sinh-thai-rung-bien-dao-266243.html",
+    "href_hash": "6b385027f6954148ea8fde4d584e5835",
+    "publish_date": "2026/01/13 01:09:00",
+    "publish_ts": 1768241340,
+    "category": "bat-dong-san"
+  },
+  {
+    "title": "Cổ phiếu đáng chú ý ngày 13/1: HPG, VCG, HHV",
+    "title_latin": "co phieu ang chu y ngay 13/1: hpg, vcg, hhv",
+    "href": "https://nguoiquansat.vn/co-phieu-dang-chu-y-ngay-13-1-hpg-vcg-hhv-266285.html",
+    "href_hash": "109b6268593ca52317dbfe5db97d0e3d",
+    "publish_date": "2026/01/13 00:26:00",
+    "publish_ts": 1768238760,
+    "category": "chung-khoan"
+  },
+  {
+    "title": "Thành phố nhỏ nhất Việt Nam sẽ trở thành thành phố đáng sống tầm thế giới",
+    "title_latin": "thanh pho nho nhat viet nam se tro thanh thanh pho ang song tam the gioi",
+    "href": "https://nguoiquansat.vn/thanh-pho-nho-nhat-viet-nam-se-tro-thanh-thanh-pho-dang-song-tam-the-gioi-266272.html",
+    "href_hash": "63ac1bd98d9127b39619fec4476fea1d",
+    "publish_date": "2026/01/13 00:09:00",
+    "publish_ts": 1768237740,
+    "category": "bat-dong-san"
+  },
+  {
     "title": "Ngay đầu năm 2026, 61 cổ phiếu nhận thông báo cắt margin",
     "title_latin": "ngay au nam 2026, 61 co phieu nhan thong bao cat margin",
     "href": "https://nguoiquansat.vn/ngay-dau-nam-2026-61-co-phieu-nhan-thong-bao-cat-margin-266271.html",

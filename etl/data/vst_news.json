@@ -360,7 +360,7 @@
     "category": "vi-mo"
   },
   {
-    "title": "UOB xây trụ sở tại Trung tâm Tài chính Quốc tế Việt Nam",
+    "title": "UOB xây trụ sở tại Trung tâm tài chính quốc tế Việt Nam",
     "title_latin": "uob xay tru so tai trung tam tai chinh quoc te viet nam",
     "href": "http://vietstock.vn/2026/01/uob-xay-tru-so-tai-trung-tam-tai-chinh-quoc-te-viet-nam-768-1390239.htm",
     "href_hash": "62069da9e396796c0ad6e21a82ec8c54",
@@ -540,6 +540,24 @@
     "category": "vi-mo"
   },
   {
+    "title": "Top cổ phiếu đáng chú ý đầu phiên 13/01",
+    "title_latin": "top co phieu đang chu y đau phien 13/01",
+    "href": "http://vietstock.vn/2026/01/top-co-phieu-dang-chu-y-dau-phien-1301-830-1390161.htm",
+    "href_hash": "d940f2dc89436aaa5e9ada2bc28606ae",
+    "publish_date": "2026/01/13 08:00:00",
+    "publish_ts": 1768266000,
+    "category": "chung-khoan"
+  },
+  {
+    "title": "13/01: Đọc gì trước giờ giao dịch chứng khoán?",
+    "title_latin": "13/01: đoc gi truoc gio giao dich chung khoan?",
+    "href": "http://vietstock.vn/2026/01/1301-doc-gi-truoc-gio-giao-dich-chung-khoan-830-1390245.htm",
+    "href_hash": "ceebe5111bb27182ca7e21ca055be215",
+    "publish_date": "2026/01/13 06:00:00",
+    "publish_ts": 1768258800,
+    "category": "chung-khoan"
+  },
+  {
     "title": "Cấp nước Thủ Đức không còn đáp ứng điều kiện công ty đại chúng",
     "title_latin": "cap nuoc thu đuc khong con đap ung đieu kien cong ty đai chung",
     "href": "http://vietstock.vn/2026/01/cap-nuoc-thu-duc-khong-con-dap-ung-dieu-kien-cong-ty-dai-chung-830-1390224.htm",
@@ -699,24 +717,6 @@
     "href_hash": "3da3892e8b0178a4b8dec2fba111b3e5",
     "publish_date": "2026/01/11 07:30:00",
     "publish_ts": 1768091400,
-    "category": "chung-khoan"
-  },
-  {
-    "title": "VN-Index chính thức chinh phục mốc 1,800 điểm",
-    "title_latin": "vn-index chinh thuc chinh phuc moc 1,800 điem",
-    "href": "http://vietstock.vn/2026/01/vn-index-chinh-thuc-chinh-phuc-moc-1800-diem-830-1389816.htm",
-    "href_hash": "fabb8e907e475d732d774887ee05fa0f",
-    "publish_date": "2026/01/10 20:15:00",
-    "publish_ts": 1768050900,
-    "category": "chung-khoan"
-  },
-  {
-    "title": "Những nhóm ngành đáng chú ý trong năm 2026, cổ phiếu Vingroup có còn hấp dẫn?",
-    "title_latin": "nhung nhom nganh đang chu y trong nam 2026, co phieu vingroup co con hap dan?",
-    "href": "http://vietstock.vn/2026/01/nhung-nhom-nganh-dang-chu-y-trong-nam-2026-co-phieu-vingroup-co-con-hap-dan-830-1389760.htm",
-    "href_hash": "02df54187f86693722c4173aad4eb4a0",
-    "publish_date": "2026/01/10 12:11:42",
-    "publish_ts": 1768021902,
     "category": "chung-khoan"
   },
   {
@@ -1800,6 +1800,15 @@
     "category": "tai-chinh-ngan-hang"
   },
   {
+    "title": "Tiền lương và tiền cho thuê nhà: Hai nguồn thu nhập có bị cộng gộp tính thuế?",
+    "title_latin": "tien luong va tien cho thue nha: hai nguon thu nhap co bi cong gop tinh thue?",
+    "href": "http://vietstock.vn/2026/01/tien-luong-va-tien-cho-thue-nha-hai-nguon-thu-nhap-co-bi-cong-gop-tinh-thue-758-1390246.htm",
+    "href_hash": "15dbff76c5a1b57fec8218bdec94e0cf",
+    "publish_date": "2026/01/13 06:58:10",
+    "publish_ts": 1768262290,
+    "category": "tai-chinh-ngan-hang"
+  },
+  {
     "title": "Người cho thuê nhà khai thuế thế nào?",
     "title_latin": "nguoi cho thue nha khai thue the nao?",
     "href": "http://vietstock.vn/2026/01/nguoi-cho-thue-nha-khai-thue-the-nao-758-1389993.htm",
@@ -1968,15 +1977,6 @@
     "href_hash": "787095df2f84ca28ff7c0caa86c43935",
     "publish_date": "2025/12/27 22:00:00",
     "publish_ts": 1766847600,
-    "category": "tai-chinh-ngan-hang"
-  },
-  {
-    "title": "Hiểu đúng về quy định \"truy tài sản thành viên nếu hộ kinh doanh không đủ tiền nộp phạt hành chính\"",
-    "title_latin": "hieu đung ve quy đinh \"truy tai san thanh vien neu ho kinh doanh khong đu tien nop phat hanh chinh\"",
-    "href": "http://vietstock.vn/2025/12/hieu-dung-ve-quy-dinh-truy-tai-san-thanh-vien-neu-ho-kinh-doanh-khong-du-tien-nop-phat-hanh-chinh-758-1385543.htm",
-    "href_hash": "28e4dd34979c334823fd9bc4c2e3a15f",
-    "publish_date": "2025/12/27 16:00:00",
-    "publish_ts": 1766826000,
     "category": "tai-chinh-ngan-hang"
   },
   {

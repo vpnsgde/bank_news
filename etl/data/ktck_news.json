@@ -270,6 +270,33 @@
     "category": "vi-mo"
   },
   {
+    "title": "Tỷ giá ngoại tệ hôm nay 13/1: USD giảm mạnh sau động thái liên quan Chủ tịch Fed",
+    "title_latin": "ty gia ngoai te hom nay 13/1: usd giam manh sau đong thai lien quan chu tich fed",
+    "href": "https://kinhtechungkhoan.vn/ty-gia-ngoai-te-hom-nay-13-1-usd-giam-manh-sau-dong-thai-lien-quan-chu-tich-fed-1422955.html",
+    "href_hash": "eb2839c87015ed82bfbe74c6d21c40eb",
+    "publish_date": "2026/01/13 07:31:01",
+    "publish_ts": 1768264261,
+    "category": "tai-chinh-ngan-hang"
+  },
+  {
+    "title": "Lãi suất ngân hàng hôm nay 13/1: Lại thêm nhà băng nhập cuộc đua tăng",
+    "title_latin": "lai suat ngan hang hom nay 13/1: lai them nha bang nhap cuoc đua tang",
+    "href": "https://kinhtechungkhoan.vn/lai-suat-ngan-hang-hom-nay-13-1-lai-them-nha-bang-nhap-cuoc-dua-tang-1422954.html",
+    "href_hash": "005dd0efc068f2ae871da1234b655ecf",
+    "publish_date": "2026/01/13 07:28:01",
+    "publish_ts": 1768264081,
+    "category": "tai-chinh-ngan-hang"
+  },
+  {
+    "title": "Giá vàng hôm nay 13/1/2026: Tăng dựng đứng, vàng trong nước lên đỉnh cao mới",
+    "title_latin": "gia vang hom nay 13/1/2026: tang dung đung, vang trong nuoc len đinh cao moi",
+    "href": "https://kinhtechungkhoan.vn/gia-vang-hom-nay-13-1-2026-tang-dung-dung-vang-trong-nuoc-len-dinh-cao-moi-1422952.html",
+    "href_hash": "8f88980c2c0a6736748a85446a6f26cd",
+    "publish_date": "2026/01/13 06:22:01",
+    "publish_ts": 1768260121,
+    "category": "tai-chinh-ngan-hang"
+  },
+  {
     "title": "Dự báo giá vàng ngày mai 13/1: Sau cú tăng kỷ lục, chuyên gia cảnh báo kịch bản \"lịch sử lặp lại\"",
     "title_latin": "du bao gia vang ngay mai 13/1: sau cu tang ky luc, chuyen gia canh bao kich ban \"lich su lap lai\"",
     "href": "https://kinhtechungkhoan.vn/du-bao-gia-vang-ngay-mai-13-1-sau-cu-tang-ky-luc-chuyen-gia-canh-bao-kich-ban-lich-su-lap-lai-1422915.html",
@@ -513,30 +540,12 @@
     "category": "tai-chinh-ngan-hang"
   },
   {
-    "title": "Giá vàng hôm nay 9/1/2026: Đảo chiều liên tục, có lí do để lo lắng",
-    "title_latin": "gia vang hom nay 9/1/2026: đao chieu lien tuc, co li do đe lo lang",
-    "href": "https://kinhtechungkhoan.vn/gia-vang-hom-nay-9-1-2026-dao-chieu-lien-tuc-co-li-do-de-lo-lang-1422463.html",
-    "href_hash": "274c2660b1d94b5c159fefbcccad862c",
-    "publish_date": "2026/01/09 06:54:01",
-    "publish_ts": 1767916441,
-    "category": "tai-chinh-ngan-hang"
-  },
-  {
-    "title": "OCB bổ nhiệm người phụ trách quản trị công ty và công bố thông tin",
-    "title_latin": "ocb bo nhiem nguoi phu trach quan tri cong ty va cong bo thong tin",
-    "href": "https://kinhtechungkhoan.vn/ocb-bo-nhiem-nguoi-phu-trach-quan-tri-cong-ty-va-cong-bo-thong-tin-1422438.html",
-    "href_hash": "d7dbc86fefec8f0095bf0f0bf0a97006",
-    "publish_date": "2026/01/08 20:55:01",
-    "publish_ts": 1767880501,
-    "category": "tai-chinh-ngan-hang"
-  },
-  {
-    "title": "Dự báo giá vàng 9/1/2026: Đột ngột giảm, báo hiệu điều gì tiếp theo?",
-    "title_latin": "du bao gia vang 9/1/2026: đot ngot giam, bao hieu đieu gi tiep theo?",
-    "href": "https://kinhtechungkhoan.vn/du-bao-gia-vang-9-1-2026-dot-ngot-giam-bao-hieu-dieu-gi-tiep-theo-1422411.html",
-    "href_hash": "05b9704fdfd6bc57331162dffe4bfc11",
-    "publish_date": "2026/01/08 17:30:01",
-    "publish_ts": 1767868201,
+    "title": "Lãi suất ngân hàng hôm nay 13/1: Lại thêm nhà băng nhập cuộc đua tăng",
+    "title_latin": "lai suat ngan hang hom nay 13/1: lai them nha bang nhap cuoc đua tang",
+    "href": "https://kinhtechungkhoan.vn/lai-suat-ngan-hang-hom-nay-13-1-lai-them-nha-bang-nhap-cuoc-dua-tang-1422954.html",
+    "href_hash": "005dd0efc068f2ae871da1234b655ecf",
+    "publish_date": "2026/01/13 07:28:01",
+    "publish_ts": 1768264081,
     "category": "tai-chinh-ngan-hang"
   },
   {
@@ -798,15 +807,6 @@
     "href_hash": "927a00877a16c0aa7a23d8a3dbcd1804",
     "publish_date": "2025/12/31 07:00:01",
     "publish_ts": 1767139201,
-    "category": "tai-chinh-ngan-hang"
-  },
-  {
-    "title": "Ngân hàng hướng dẫn người dân cách nhận quà Tết qua VNeID",
-    "title_latin": "ngan hang huong dan nguoi dan cach nhan qua tet qua vneid",
-    "href": "https://kinhtechungkhoan.vn/ngan-hang-huong-dan-nguoi-dan-cach-nhan-qua-tet-qua-vneid-1421164.html",
-    "href_hash": "ea20ced4acd576b45374bab801582d93",
-    "publish_date": "2025/12/30 16:07:01",
-    "publish_ts": 1767085621,
     "category": "tai-chinh-ngan-hang"
   },
   {
