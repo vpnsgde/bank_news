@@ -74,7 +74,7 @@ categories = [row[0] for row in categories_from_db]
 
 # ================= CATEGORY CHECKBOX =================
 if "selected_categories" not in st.session_state:
-    st.session_state.selected_categories = ["tai-chinh-ngan-hang"] if "tai-chinh-ngan-hang" in categories else [categories[0]]
+    st.session_state.selected_categories = categories #["tai-chinh-ngan-hang"] if "tai-chinh-ngan-hang" in categories else [categories[0]]
 
 def toggle_categories():
     if set(st.session_state.selected_categories) == set(categories):
