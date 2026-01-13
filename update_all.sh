@@ -27,13 +27,14 @@ fi
 # airflow dags list | grep example_ | awk '{print $1}' | xargs -r airflow dags delete -y
 
 # Start Airflow
-airflow webserver -p 8080 &
-airflow scheduler &
+setsid airflow webserver -p 8080 > webserver.log 2>&1 < /dev/null &
+setsid airflow scheduler > scheduler.log 2>&1 < /dev/null &
 sleep 5
 
 # Open GUI
 xdg-open http://localhost:8080
 sleep 3
+airflow dags unpause update_all
 airflow dags trigger update_all
 
 deactivate
